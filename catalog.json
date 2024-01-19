@@ -1,0 +1,39 @@
+{
+    "charts": {},
+    "test": {},
+    "stable": {
+        "tachidesk-docker": {
+            "app_readme": "Preview version of Tachidesk",
+            "categories": [
+                "MediaServer-Other"
+            ],
+            "description": "The official Tachidesk Chart-Chart.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/incubator/tachidesk-docker",
+            "location": "/home/runner/work/catalog/catalog/stable/tachidesk-docker",
+            "latest_version": "4.1.6",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_4.1.6",
+            "last_update": "2024-01-15 18:33:04",
+            "name": "tachidesk-docker",
+            "recommended": false,
+            "title": "Tachidesk-docker",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/suwayomi/docker-tachidesk",
+                "https://github.com/Suwayomi/Tachidesk-Server",
+                "https://github.com/truecharts/charts/tree/master/charts/incubator/tachidesk-docker",
+                "https://ghcr.io/suwayomi/tachidesk"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/tachidesk-docker.png"
+        }
+}
